@@ -1,0 +1,5 @@
+
+
+[29/03/2023, 17:12:05] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.15.0
+Bot Version: 1.5.3
